@@ -9,14 +9,14 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 function Login() {
-    let [username,setUsername] = useState('');
+    let [username,setUsername] = useState('');dwdadwda
     let [password,setPassword] = useState('');
     let [statusLogin,setStatusLogin] = useState('2');
     
     let test1 = async () =>{
         try {
             
-            let a = await test();
+            let a = awaidwdadst test();
             console.log('a ne ',a) 
         } catch (error) {
             console.log('error',error)
